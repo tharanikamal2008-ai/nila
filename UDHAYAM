@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+
+```
+<h1>Welcome to My Website!</h1>
+
+<p>Hello! I am learning HTML.</p>
+
+<h2>My Hobbies</h2>
+<ul>
+    <li>Learning Programming</li>
+    <li>Listening to Music</li>
+    <li>Playing Games</li>
+</ul>
+
+<button>Click Me!</button>
+```
+
+</body>
+</html>
